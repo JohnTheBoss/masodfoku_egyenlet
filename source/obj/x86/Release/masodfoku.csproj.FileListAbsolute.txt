@@ -1,0 +1,8 @@
+D:\owncloud\Iskola H meghajtó\Adatbazis_es_szoftverfejlesztes\Elso_felev\masodfoku\bin\Release\MasodfokuEMK.exe
+D:\owncloud\Iskola H meghajtó\Adatbazis_es_szoftverfejlesztes\Elso_felev\masodfoku\bin\Release\MasodfokuEMK.pdb
+D:\owncloud\Iskola H meghajtó\Adatbazis_es_szoftverfejlesztes\Elso_felev\masodfoku\obj\x86\Release\masodfoku.csprojResolveAssemblyReference.cache
+D:\owncloud\Iskola H meghajtó\Adatbazis_es_szoftverfejlesztes\Elso_felev\masodfoku\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\owncloud\Iskola H meghajtó\Adatbazis_es_szoftverfejlesztes\Elso_felev\masodfoku\obj\x86\Release\masodfokuEMK.Properties.Resources.resources
+D:\owncloud\Iskola H meghajtó\Adatbazis_es_szoftverfejlesztes\Elso_felev\masodfoku\obj\x86\Release\masodfoku.csproj.GenerateResource.Cache
+D:\owncloud\Iskola H meghajtó\Adatbazis_es_szoftverfejlesztes\Elso_felev\masodfoku\obj\x86\Release\MasodfokuEMK.exe
+D:\owncloud\Iskola H meghajtó\Adatbazis_es_szoftverfejlesztes\Elso_felev\masodfoku\obj\x86\Release\MasodfokuEMK.pdb
