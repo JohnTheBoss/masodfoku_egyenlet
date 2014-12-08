@@ -1,10 +1,10 @@
-masodfoku_egyenlet
+Másodfokú egyenlet megoldóképlet kiszámítása
 ==================
 
 Másodfokú egyenlet megoldóképlethez (quadratic formula) készült program.
 
 
-**###Hogyan futtasuk:###
+###Hogyan futtasuk?
 -------------------------
--Töltsd le a MasodfokuEMK.exe fájt.
--Futtasd. 
+- Töltsd le a MasodfokuEMK.exe fájt.
+- Futtasd. 
