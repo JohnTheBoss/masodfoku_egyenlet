@@ -1,4 +1,4 @@
-Másodfokú egyenlet megoldóképlet kiszámítása
+Másodfokú egyenlet megoldóképlet kiszámítása (a program segítségével)
 ==================
 
 Másodfokú egyenlet megoldóképlethez (quadratic formula) készült program.
